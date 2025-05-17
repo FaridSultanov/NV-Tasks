@@ -10,6 +10,7 @@ namespace Lesson_2
     {
         static void Main(string[] args)
         {
+            // Git pull emrini yoxlamaq ucun edirem
             #region Task1
             //string f_n = "";
             //string a;
