@@ -1,2 +1,2 @@
 # NV-Tasks
-Self-study olaraq öyrəndiyim şnet backend developer kursunun çalışmalarını bu repoda toplayıram.
+Self-study olaraq öyrəndiyim .net backend developer kursunun çalışmalarını bu repoda toplayıram.
