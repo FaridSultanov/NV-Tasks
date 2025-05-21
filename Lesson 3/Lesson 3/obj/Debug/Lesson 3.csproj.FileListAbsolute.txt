@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\NV Tasks\Lesson 3\Lesson 3\obj\Debug\Lesson 3.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\NV Tasks\Lesson 3\Lesson 3\obj\Debug\Lesson 3.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\NV Tasks\Lesson 3\Lesson 3\bin\Debug\Lesson 3.exe.config
+C:\Users\LENOVO\Desktop\NV Tasks\Lesson 3\Lesson 3\bin\Debug\Lesson 3.exe
+C:\Users\LENOVO\Desktop\NV Tasks\Lesson 3\Lesson 3\bin\Debug\Lesson 3.pdb
+C:\Users\LENOVO\Desktop\NV Tasks\Lesson 3\Lesson 3\obj\Debug\Lesson 3.exe
+C:\Users\LENOVO\Desktop\NV Tasks\Lesson 3\Lesson 3\obj\Debug\Lesson 3.pdb
