@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 everything will be fine
 =======
 everything will be fine yes
 >>>>>>> d0cc506 (notes pages cahnged)
+=======
+everything will be fine yessssssss
+>>>>>>> 410bdc0 (added)
